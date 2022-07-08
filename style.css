@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(pink,rgb(70, 161, 186),rgb(59, 7, 144));
+}
+
+img{
+    height: 400px;
+    width: 400px;
+    border-width:10px;
+    border-radius: 10px;
+    border-color:black;
+    border-style: ridge;
+}
